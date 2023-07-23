@@ -37,7 +37,7 @@ class MainScreenVC: UIViewController, UITableViewDataSource, UITableViewDelegate
         shoppingItem(Name: "Turkey", imageName: "Turkey", unitPrice: "$23.04", units: "16 lb", itemDescription: "Fresh", Quantity: 1),
         shoppingItem(Name: "Dates", imageName: "Dates", unitPrice: "$3.49", units: "1 kg", itemDescription: "Organic", Quantity: 6),
         shoppingItem(Name: "Dragon Fruit", imageName: "Dragonfruit", unitPrice: "$7.34", units: "3 oz", itemDescription: "Organic", Quantity: 1),
-        shoppingItem(Name: "Figs", imageName: "Fig", unitPrice: "$4.09", units: "5 oz", itemDescription: "Organic", Quantity: 3),
+        shoppingItem(Name: "Figs", imageName: "Fig", unitPrice: "$4.09", units: "5 oz", itemDescription: "Organic", Quantity: 9),
         shoppingItem(Name: "Ground Chicken", imageName: "GroundChicken", unitPrice: "$7.49", units: "1 lb", itemDescription: "Fresh", Quantity: 2),
         shoppingItem(Name: "Hot Dog Buns", imageName: "Hotdogbun", unitPrice: "$3.49", units: "8 ct", itemDescription: "Enriched Buns", Quantity: 1),
         shoppingItem(Name: "Eggs", imageName: "Eggs", unitPrice: "$7.49", units: "1 dozen", itemDescription: "Organic", Quantity: 4),
